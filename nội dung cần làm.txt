@@ -1,0 +1,22 @@
+---- Ghi chú
+giao diện chính là danh sách các ghi chú
+hiển thị ghi chú theo thứ tự mới nhất trên cùng
+tùy chọn xem/ chỉnh sửa ghi chú
+tìm kiếm ghi chú theo nhãn 
+thêm ghi chú bao gồm tiêu đề, nội dung ( bổ sung video, hình ảnh ) có thể phát trực tiếp
+điều chỉnh nhắc nhở cho ghi chú ( giống báo thức ) sẽ hiển thị notification 
+nếu nhấn notification sẽ mở đến ghi chú hiện tại
+một ghi chú có thể có nhiều nhãn, ghi chú được phân loại theo nhãn
+ghim ghi chú , bỏ ghim 
+đặt mật khẩu cho từng ghi chú
+có thể chia sẻ cho các ứng dụng khác
+khi xóa ghi chú sẽ được chuyển vào thùng rác ( có thể chọn khôi phục hoặc xóa vĩnh viễn, 
+tự xóa sau 7 ngày )
+
+
+---- Cài đặt
+thay đổi mật khẩu
+thiết lập font chữ, kích thước mặc định
+thiết lập thời gian ghi chú được xóa tự động trong thùng rác
+thay đổi âm thanh thông báo
+
